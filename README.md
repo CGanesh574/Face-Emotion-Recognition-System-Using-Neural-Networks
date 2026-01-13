@@ -63,7 +63,7 @@ The system identifies individuals and classifies facial emotions simultaneously 
 2. Haar Cascade face detection
 3. Grayscale conversion & histogram equalization
 4. Face resizing (100×100)
-5. LBPH feature extraction
+5. Feature extraction
 6. SVM classification with confidence score
 
 ### Emotion Recognition Pipeline
@@ -129,7 +129,7 @@ python app.py
 
 1. Enter person’s name
 2. Click **Add Face**
-3. System captures 15 face samples automatically
+3. System captures 50 face samples automatically
 
 ### Start Recognition
 
@@ -173,7 +173,7 @@ python app.py
 ### Face Dataset
 
 * Custom dataset created in real time
-* 15 samples per person
+* 50 samples per person
 * Stored as 100×100 grayscale images
 
 ---
@@ -194,6 +194,7 @@ python app.py
 This project is licensed under the **MIT License**.
 
 ---
+
 
 
 
