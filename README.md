@@ -137,7 +137,6 @@ python app.py
 
   * Person Name
   * Emotion
-  * Confidence
   * Face Direction
   * Glasses Status
 
@@ -194,6 +193,7 @@ python app.py
 This project is licensed under the **MIT License**.
 
 ---
+
 
 
 
