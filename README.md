@@ -11,7 +11,7 @@ The system identifies individuals and classifies facial emotions simultaneously 
 ### 🔍 Face Recognition
 
 * Real-time multi-face detection
-* LBPH-based face recognition
+* Face recognition
 * SVM classifier for improved accuracy
 * Automatic face sample collection (15 images per person)
 * Confidence-based recognition
@@ -194,4 +194,5 @@ python app.py
 This project is licensed under the **MIT License**.
 
 ---
+
 
